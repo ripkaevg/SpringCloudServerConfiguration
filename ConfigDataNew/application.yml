@@ -1,0 +1,28 @@
+---
+# Items that apply to ALL profiles:
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
+#      defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
+
+
+---
+spring.config.activate.on-profile: subject
+words: Шахтар,Дніпро-1
+
+---
+spring.config.activate.on-profile: verb
+words: Динамо Київ,Рух 
+
+---
+spring.config.activate.on-profile: article
+words: Зоря,Олександрія
+
+---
+spring.config.activate.on-profile: adjective
+words: Колос,Металіст 1925
+
+---
+spring.config.activate.on-profile: noun
+words: Ворскла,Динамо Київ
