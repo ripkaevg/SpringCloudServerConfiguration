@@ -8,21 +8,21 @@ eureka:
 
 
 ---
-spring.config.activate.on-profile: subject
+spring.config.activate.on-profile: team-1
 words: Шахтар,Дніпро-1
 
 ---
-spring.config.activate.on-profile: verb
+spring.config.activate.on-profile: team-2
 words: ДинамоКиїв,Рух 
 
 ---
-spring.config.activate.on-profile: article
+spring.config.activate.on-profile: team-3
 words: Зоря,Олександрія
 
 ---
-spring.config.activate.on-profile: adjective
+spring.config.activate.on-profile: team-4
 words: Колос,Металіст1925
 
 ---
-spring.config.activate.on-profile: noun
+spring.config.activate.on-profile: team-5
 words: Ворскла,ДинамоКиїв
