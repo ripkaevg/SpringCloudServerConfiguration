@@ -13,7 +13,7 @@ words: Шахтар,Дніпро-1
 
 ---
 spring.config.activate.on-profile: verb
-words: Динамо Київ,Рух 
+words: ДинамоКиїв,Рух 
 
 ---
 spring.config.activate.on-profile: article
@@ -21,8 +21,8 @@ words: Зоря,Олександрія
 
 ---
 spring.config.activate.on-profile: adjective
-words: Колос,Металіст 1925
+words: Колос,Металіст1925
 
 ---
 spring.config.activate.on-profile: noun
-words: Ворскла,Динамо Київ
+words: Ворскла,ДинамоКиїв
